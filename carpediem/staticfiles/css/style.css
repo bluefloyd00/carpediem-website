@@ -24,8 +24,9 @@ a:hover {
 
  h2, h3, h4, h5, h6 {
   /* font-family: "Raleway", sans-serif; */
-  font-family:  "Times New Roman", Georgia, serif; 
+   font-family:  "Times New Roman", Georgia, serif; 
  }
+ /*
  h1 {
   
   font-family: 'Blacklet';
@@ -35,7 +36,7 @@ a:hover {
   font-weight: bold;
   font-style:normal;
   font-display: swap;
-  }
+  } */ 
 
  
 
