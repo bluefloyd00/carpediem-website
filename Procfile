@@ -1,1 +1,1 @@
-web: gunicorn carpediem.wsgi
+web: gunicorn carpediem.carpediem.wsgi
